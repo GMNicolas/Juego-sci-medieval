@@ -242,3 +242,24 @@ Received Import Request.
 Start importing Assets/2DGamekit/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08d52fb74d3a39e2f6939fd890c5cdfa') in 0.561697 seconds
   Import took 0.570671 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001744 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.292 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2278 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 109.1 MB.
+System memory in use after: 105.0 MB.
+
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 2691.
+Total: 4.430300 ms (FindLiveObjects: 0.328100 ms CreateObjectMapping: 0.073100 ms MarkObjects: 2.018500 ms  DeleteObjects: 2.009400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
