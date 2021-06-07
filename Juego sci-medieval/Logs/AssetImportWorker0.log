@@ -1,0 +1,997 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'es' Physical Memory: 8140 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\User\Desktop\FACULTAD\unity\2020.3.4f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/User/Documents/GitHub/Juego-sci-medieval/Juego sci-medieval
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+63723
+Successfully changed project path to: C:/Users/User/Documents/GitHub/Juego-sci-medieval/Juego sci-medieval
+C:/Users/User/Documents/GitHub/Juego-sci-medieval/Juego sci-medieval
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 123.26 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path C:/Users/User/Desktop/FACULTAD/unity/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/User/Documents/GitHub/Juego-sci-medieval/Juego sci-medieval/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Vendor:   
+    VRAM:     8171 MB
+    Driver:   27.20.14501.28009
+Initialize mono
+Mono path[0] = 'C:/Users/User/Desktop/FACULTAD/unity/2020.3.4f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/User/Desktop/FACULTAD/unity/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/User/Desktop/FACULTAD/unity/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56188
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/User/Desktop/FACULTAD/unity/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003378 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 110.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.770 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002016 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 124.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.575 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 1.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2286 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.5 MB.
+System memory in use after: 129.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2756.
+Total: 3.125700 ms (FindLiveObjects: 0.322200 ms CreateObjectMapping: 0.113500 ms MarkObjects: 2.451800 ms  DeleteObjects: 0.235700 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/CrystalWorld/main_lev_build_1.asset
+  artifactKey: Guid(dda3da1f7bf3bdb4eb720b304a49c8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/main_lev_build_1.asset using Guid(dda3da1f7bf3bdb4eb720b304a49c8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef361bdf1e863d1b999688e896b68beb') in 0.328771 seconds
+  Import took 0.337192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.598633 seconds.
+  path: Assets/CrystalWorld/Sprites
+  artifactKey: Guid(6c2cef83994e95946a3b0351f11abbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites using Guid(6c2cef83994e95946a3b0351f11abbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c053407ed48e5f043a97be3b2f84727') in 0.012751 seconds
+  Import took 0.019912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.128294 seconds.
+  path: Assets/CrystalWorld/Scene
+  artifactKey: Guid(de729e5b0d507d84ba33e462e37fb840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Scene using Guid(de729e5b0d507d84ba33e462e37fb840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfdc5e9304aefb04b4e40b1b15bcf27c') in 0.010291 seconds
+  Import took 0.017270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.043893 seconds.
+  path: Assets/CrystalWorld/Scene/Demo.unity
+  artifactKey: Guid(b06206c075ca7d14ab09f1576ae78705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Scene/Demo.unity using Guid(b06206c075ca7d14ab09f1576ae78705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8537aab1c4fdd609424220ddc96dca52') in 0.004723 seconds
+  Import took 0.011669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 238.360383 seconds.
+  path: Assets/CrystalWorld/Collectible
+  artifactKey: Guid(239cf67d3a8af1a4f9f93a0a92c4f89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible using Guid(239cf67d3a8af1a4f9f93a0a92c4f89f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '894aca233394d61e3f13c0e23b991e13') in 0.006354 seconds
+  Import took 0.013725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.177855 seconds.
+  path: Assets/CrystalWorld/Collectible/dagger01.png
+  artifactKey: Guid(997fbc98f8eb96e409cb04b3e2cfbde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/dagger01.png using Guid(997fbc98f8eb96e409cb04b3e2cfbde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57d08640b6e1aafcace840a658479d4d') in 0.464117 seconds
+  Import took 0.473749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000612 seconds.
+  path: Assets/CrystalWorld/Collectible/diamond_small05.png
+  artifactKey: Guid(712aa187f43a08c4fb91519d4f5542bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/diamond_small05.png using Guid(712aa187f43a08c4fb91519d4f5542bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41c45fa84aa25615a6f1d5ba245a0f8a') in 0.031380 seconds
+  Import took 0.038392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000687 seconds.
+  path: Assets/CrystalWorld/Collectible/heart05.png
+  artifactKey: Guid(5ffb421aeaf64fb459f068c8461d12d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/heart05.png using Guid(5ffb421aeaf64fb459f068c8461d12d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5697830096513d25c500c96a2c690f4e') in 0.028300 seconds
+  Import took 0.038298 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000666 seconds.
+  path: Assets/CrystalWorld/Collectible/diamond_big_06.png
+  artifactKey: Guid(c7a92e72f5e768440b16781bbf2f0714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/diamond_big_06.png using Guid(c7a92e72f5e768440b16781bbf2f0714) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97652599112697e8bec5b3da78718fd1') in 0.036372 seconds
+  Import took 0.044294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000666 seconds.
+  path: Assets/CrystalWorld/Collectible/dagger02.png
+  artifactKey: Guid(37ef93b5f19573b4698a4b1b93a73003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/dagger02.png using Guid(37ef93b5f19573b4698a4b1b93a73003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95ab0f0ef5bfd539575de34370f63857') in 0.035025 seconds
+  Import took 0.110020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/CrystalWorld/Collectible/diamond_big_01.png
+  artifactKey: Guid(063624461e0b0dd4e99552fa4e58ebfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/diamond_big_01.png using Guid(063624461e0b0dd4e99552fa4e58ebfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72024d98e6802160c3fcf79d01ad40f8') in 0.037690 seconds
+  Import took 0.044724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000554 seconds.
+  path: Assets/CrystalWorld/Collectible/heart04.png
+  artifactKey: Guid(0e8ec85d4bccdc3469ef1fb9fb3eba9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/heart04.png using Guid(0e8ec85d4bccdc3469ef1fb9fb3eba9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7df18998bd977c80cca4a4927841bf2') in 0.034381 seconds
+  Import took 0.041601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000513 seconds.
+  path: Assets/CrystalWorld/Collectible/diamond_big.png
+  artifactKey: Guid(f619e92844e534f4ab5a65e23fe9d9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/diamond_big.png using Guid(f619e92844e534f4ab5a65e23fe9d9d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5806844e588e431c391bef2f3b23fd83') in 0.031632 seconds
+  Import took 0.039129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000543 seconds.
+  path: Assets/CrystalWorld/Collectible/diamond_small04.png
+  artifactKey: Guid(58b4fa4819c36c142a2a1d58a9d21c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/diamond_small04.png using Guid(58b4fa4819c36c142a2a1d58a9d21c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe9b28d6d6d70ca964dec58e9400b60d') in 0.032946 seconds
+  Import took 0.052755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/CrystalWorld/Collectible/heart06.png
+  artifactKey: Guid(fb30bc15ae2863743b57c872661dd470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/heart06.png using Guid(fb30bc15ae2863743b57c872661dd470) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'babb77a0d4604711cbe5cd8e01ba483d') in 0.033497 seconds
+  Import took 0.107842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000838 seconds.
+  path: Assets/CrystalWorld/Collectible/dagger06.png
+  artifactKey: Guid(bf46493ed1936d641bc95c9409477891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/dagger06.png using Guid(bf46493ed1936d641bc95c9409477891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ea7ffb8135e131dbf41410c31040000') in 0.054811 seconds
+  Import took 0.063285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000618 seconds.
+  path: Assets/CrystalWorld/Collectible/dagger05.png
+  artifactKey: Guid(1219618d65a3d744abd09dae16780a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/dagger05.png using Guid(1219618d65a3d744abd09dae16780a77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33a4416f3399e70e2a08c4e5a9629b30') in 0.031517 seconds
+  Import took 0.101568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000987 seconds.
+  path: Assets/CrystalWorld/Collectible/dagger08.png
+  artifactKey: Guid(df8f365ca75215c4392db0c93d03888b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/dagger08.png using Guid(df8f365ca75215c4392db0c93d03888b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '964e3c13275e0e3802bf80eccf823434') in 0.048739 seconds
+  Import took 0.081959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000757 seconds.
+  path: Assets/CrystalWorld/Collectible/dagger03.png
+  artifactKey: Guid(4c457800174ece24ea2c7342bff928d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/dagger03.png using Guid(4c457800174ece24ea2c7342bff928d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c1ddf75a78af1417e8dce78093bac60') in 0.074575 seconds
+  Import took 0.113088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000609 seconds.
+  path: Assets/CrystalWorld/Collectible/diamond_small.png
+  artifactKey: Guid(4f61beacbefc50c43a40af5ca1e90ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/diamond_small.png using Guid(4f61beacbefc50c43a40af5ca1e90ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1042ce04570bb95d7da6deee92a6107') in 0.033909 seconds
+  Import took 0.088616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000532 seconds.
+  path: Assets/CrystalWorld/Collectible/diamond_big_05.png
+  artifactKey: Guid(657d546b3e88dbc429fa96ccf4921130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/diamond_big_05.png using Guid(657d546b3e88dbc429fa96ccf4921130) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db2835cc6d88ddb09bf1398ee76b2e2f') in 0.031791 seconds
+  Import took 0.111977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000579 seconds.
+  path: Assets/CrystalWorld/Collectible/diamond_big_04.png
+  artifactKey: Guid(3994a3efda00bde43b8ab8dcac8bc20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/diamond_big_04.png using Guid(3994a3efda00bde43b8ab8dcac8bc20b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81ab894a65a8ae8189c918906f2b9ac5') in 0.053923 seconds
+  Import took 0.113168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018576 seconds.
+  path: Assets/CrystalWorld/Collectible/diamond_big_02.png
+  artifactKey: Guid(e37e2b2995f988d4ea7e9c16e11a4710) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/diamond_big_02.png using Guid(e37e2b2995f988d4ea7e9c16e11a4710) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07c066846165f25cbdf471ebf28bd888') in 0.021814 seconds
+  Import took 0.084511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000518 seconds.
+  path: Assets/CrystalWorld/Collectible/heart03.png
+  artifactKey: Guid(1342c3d902ac2d54ab794d079effe897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/heart03.png using Guid(1342c3d902ac2d54ab794d079effe897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '991525da91fe00c893266eb43a96ce27') in 0.036790 seconds
+  Import took 0.221352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000625 seconds.
+  path: Assets/CrystalWorld/Collectible/diamond_big_03.png
+  artifactKey: Guid(77029d18a2886b441a6a888ae5eb4594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/diamond_big_03.png using Guid(77029d18a2886b441a6a888ae5eb4594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf8298f1c8d8db0e6e76cb5e4346523e') in 0.030596 seconds
+  Import took 0.039210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000691 seconds.
+  path: Assets/CrystalWorld/Collectible/diamond_small01.png
+  artifactKey: Guid(0a7e98034829d214bba821cc72ef7f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/diamond_small01.png using Guid(0a7e98034829d214bba821cc72ef7f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51dca4e87fadc1c969a732f3b08661c4') in 0.028684 seconds
+  Import took 0.035749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000507 seconds.
+  path: Assets/CrystalWorld/Collectible/heart02.png
+  artifactKey: Guid(fb6b46b5b7fb8c14cb2db7a3183fea92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/heart02.png using Guid(fb6b46b5b7fb8c14cb2db7a3183fea92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17a999bb947cb5fecb1ab97a9f13393e') in 0.040416 seconds
+  Import took 0.047847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000564 seconds.
+  path: Assets/CrystalWorld/Collectible/dagger07.png
+  artifactKey: Guid(7afaa0d3158bcd143b53f18e25977432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/dagger07.png using Guid(7afaa0d3158bcd143b53f18e25977432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1e40d5635a072c4aa8c52c23ab03425') in 0.029221 seconds
+  Import took 0.036008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000552 seconds.
+  path: Assets/CrystalWorld/Collectible/diamond_small02.png
+  artifactKey: Guid(943641d0d8121bb41a6b66c10ae0d2f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/diamond_small02.png using Guid(943641d0d8121bb41a6b66c10ae0d2f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6849485a4805970daa3043414a1975eb') in 0.035476 seconds
+  Import took 0.103909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000873 seconds.
+  path: Assets/CrystalWorld/Collectible/heart01.png
+  artifactKey: Guid(9bda7e894091f14409ee8c6094b101e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/heart01.png using Guid(9bda7e894091f14409ee8c6094b101e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '673004ef17af46c01d888cb2c7f0fe21') in 0.031865 seconds
+  Import took 0.040441 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000569 seconds.
+  path: Assets/CrystalWorld/Collectible/dagger04.png
+  artifactKey: Guid(7be49e7a5ed265d4cbf5ac49fe65fc9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/dagger04.png using Guid(7be49e7a5ed265d4cbf5ac49fe65fc9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e980c463022c524c4a68437992bbd021') in 0.024368 seconds
+  Import took 0.031712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000532 seconds.
+  path: Assets/CrystalWorld/Collectible/diamond_small03.png
+  artifactKey: Guid(0e5605a66c968ea4282bbfca8f8781e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Collectible/diamond_small03.png using Guid(0e5605a66c968ea4282bbfca8f8781e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9e24c2ecd997f5916a627cc258d0fda') in 0.018794 seconds
+  Import took 0.028245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.458113 seconds.
+  path: Assets/CrystalWorld/Effects/destr_effect01.png
+  artifactKey: Guid(535dc328ac642a9478096387c271878a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Effects/destr_effect01.png using Guid(535dc328ac642a9478096387c271878a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c0fd8687730511261fc6760da5cf67') in 0.037181 seconds
+  Import took 0.045514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000586 seconds.
+  path: Assets/CrystalWorld/Effects/hit_effect01.png
+  artifactKey: Guid(885d42dfaabf28d408096b1bfa8f7bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Effects/hit_effect01.png using Guid(885d42dfaabf28d408096b1bfa8f7bcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fb20a193766922df3a1ae58f6a9143f') in 0.021771 seconds
+  Import took 0.029436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000519 seconds.
+  path: Assets/CrystalWorld/Effects/destr_effect_sheet.png
+  artifactKey: Guid(e1a490be52b5ed244840d3c91d79e359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Effects/destr_effect_sheet.png using Guid(e1a490be52b5ed244840d3c91d79e359) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec0b59dd8bb9c424d1fb7f5f7cf7e686') in 0.036491 seconds
+  Import took 0.044513 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000730 seconds.
+  path: Assets/CrystalWorld/Effects/destr_effect02.png
+  artifactKey: Guid(cd7ca8b1730c0214eac3c4ec8f0deb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Effects/destr_effect02.png using Guid(cd7ca8b1730c0214eac3c4ec8f0deb03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed70beb0e9fb99b957c1f265dbf42754') in 0.034094 seconds
+  Import took 0.060749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026242 seconds.
+  path: Assets/CrystalWorld/Effects/destr_effect05.png
+  artifactKey: Guid(1ef2e606aa0bdfe4a8d2d51b80b90595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Effects/destr_effect05.png using Guid(1ef2e606aa0bdfe4a8d2d51b80b90595) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adac5e6ba43f5fb2da22034e5725ff35') in 0.046379 seconds
+  Import took 0.140837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000881 seconds.
+  path: Assets/CrystalWorld/Effects/destr_effect03.png
+  artifactKey: Guid(6fad8e159685352459e3fdccd642b330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Effects/destr_effect03.png using Guid(6fad8e159685352459e3fdccd642b330) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceb6824b1726fbe1d33dc6bec7d6d6ed') in 0.044627 seconds
+  Import took 0.052498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000593 seconds.
+  path: Assets/CrystalWorld/Effects/destr_effect04.png
+  artifactKey: Guid(c4adbb1443dac0941bbc6524b26def99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Effects/destr_effect04.png using Guid(c4adbb1443dac0941bbc6524b26def99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c521d6d5994e1d071ed62a1673c76578') in 0.071835 seconds
+  Import took 0.078927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000517 seconds.
+  path: Assets/CrystalWorld/Effects/hit_effect_sheet.png
+  artifactKey: Guid(46e73bd962d36ad4a81c56ff31548ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Effects/hit_effect_sheet.png using Guid(46e73bd962d36ad4a81c56ff31548ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f61be4935c87ba1f3919cc23aa682903') in 0.080610 seconds
+  Import took 0.115578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000649 seconds.
+  path: Assets/CrystalWorld/Effects/hit_effect05.png
+  artifactKey: Guid(c03880eeab9eb8047ab9000daa70f3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Effects/hit_effect05.png using Guid(c03880eeab9eb8047ab9000daa70f3d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d152d83081dea1b84335180106b604b') in 0.037379 seconds
+  Import took 0.052800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000517 seconds.
+  path: Assets/CrystalWorld/Effects/hit_effect02.png
+  artifactKey: Guid(4470f348ad920724a804fa80f39d8ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Effects/hit_effect02.png using Guid(4470f348ad920724a804fa80f39d8ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '332b317b3a1fd86665744515e5858fe6') in 0.029906 seconds
+  Import took 0.059593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000937 seconds.
+  path: Assets/CrystalWorld/Effects/hit_effect03.png
+  artifactKey: Guid(06888064696bf2e4d84c8b48c928e346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Effects/hit_effect03.png using Guid(06888064696bf2e4d84c8b48c928e346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fac5c4fd52c497c822e9954119af7ff4') in 0.054154 seconds
+  Import took 0.354871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000555 seconds.
+  path: Assets/CrystalWorld/Effects/hit_effect04.png
+  artifactKey: Guid(355ec6c517c5d9a4db38f9c8ae664426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Effects/hit_effect04.png using Guid(355ec6c517c5d9a4db38f9c8ae664426) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70fd127a375de0a0a721ba67dfc59725') in 0.055599 seconds
+  Import took 0.063066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.061416 seconds.
+  path: Assets/CrystalWorld/Gui/Gui.png
+  artifactKey: Guid(889951e9407ea0a4f85b0a60c639cf6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Gui/Gui.png using Guid(889951e9407ea0a4f85b0a60c639cf6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10111c2a4cce2bb59a92e96ef835b283') in 0.037312 seconds
+  Import took 0.045240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.497330 seconds.
+  path: Assets/CrystalWorld/Sprites/GinoCharacter
+  artifactKey: Guid(30ea060fb67251a4c9d65e0d926d8932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/GinoCharacter using Guid(30ea060fb67251a4c9d65e0d926d8932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fff275f0a748bbd96577529408aa70e') in 0.005011 seconds
+  Import took 0.012850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.077726 seconds.
+  path: Assets/CrystalWorld/Sprites/GinoCharacter/attack_in_jump_sheet.png
+  artifactKey: Guid(6953fe0739b6e16489176ba1ccc2f29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/GinoCharacter/attack_in_jump_sheet.png using Guid(6953fe0739b6e16489176ba1ccc2f29d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3e112b1fdfbeccb6109aecb3a4f05c1') in 0.078126 seconds
+  Import took 0.085789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/CrystalWorld/Sprites/GinoCharacter/throw_dagger_sheet.png
+  artifactKey: Guid(1fd1e5f61e0e7564bb1934f606dc3007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/GinoCharacter/throw_dagger_sheet.png using Guid(1fd1e5f61e0e7564bb1934f606dc3007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbcb32cb1c0a7d42cbb600ae50c7e6f8') in 0.045860 seconds
+  Import took 0.053390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/CrystalWorld/Sprites/GinoCharacter/slide_sheet.png
+  artifactKey: Guid(9365cfdbee5d9af4899e74e4fbdc07c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/GinoCharacter/slide_sheet.png using Guid(9365cfdbee5d9af4899e74e4fbdc07c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96e5912983bcb9da8798b34765ff9203') in 0.061287 seconds
+  Import took 0.068970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000643 seconds.
+  path: Assets/CrystalWorld/Sprites/GinoCharacter/hit,death_sheet.png
+  artifactKey: Guid(d795243594ec79e43835a79721138c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/GinoCharacter/hit,death_sheet.png using Guid(d795243594ec79e43835a79721138c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1ede9ccaf007b01c3e04a7458be6899') in 0.035037 seconds
+  Import took 0.145643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011908 seconds.
+  path: Assets/CrystalWorld/Sprites/GinoCharacter/throw_attack_sheet.png
+  artifactKey: Guid(6b07d2705985c21429db66a160242dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/GinoCharacter/throw_attack_sheet.png using Guid(6b07d2705985c21429db66a160242dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a540f8e796e1434f13b98088b842cb39') in 0.047506 seconds
+  Import took 0.054960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001275 seconds.
+  path: Assets/CrystalWorld/Sprites/GinoCharacter/idle,run,jump_sheet.png
+  artifactKey: Guid(05cb44b332ff7bf428c4c5eff18d9211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/GinoCharacter/idle,run,jump_sheet.png using Guid(05cb44b332ff7bf428c4c5eff18d9211) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad646baf16968cd8c52214ee1c49525') in 0.049560 seconds
+  Import took 0.113216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000494 seconds.
+  path: Assets/CrystalWorld/Sprites/GinoCharacter/attacks_sheet.png
+  artifactKey: Guid(1eefd0a0ac085c4448ee80da34c085f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/GinoCharacter/attacks_sheet.png using Guid(1eefd0a0ac085c4448ee80da34c085f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb11b94837142728f2285cfd4bdd2348') in 0.066778 seconds
+  Import took 0.141096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/CrystalWorld/Sprites/GinoCharacter/ledge_grab_sheet.png
+  artifactKey: Guid(33362c2f7501336478e434e263df1049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/GinoCharacter/ledge_grab_sheet.png using Guid(33362c2f7501336478e434e263df1049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8538ca65d570967ca12c2e91a2291e21') in 0.068954 seconds
+  Import took 0.272894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.687995 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/attack01.png
+  artifactKey: Guid(27b226a5a359bdf4bb3e733d2b717698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/attack01.png using Guid(27b226a5a359bdf4bb3e733d2b717698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca6d1aa93fc174c573fa495977e5bd58') in 0.070695 seconds
+  Import took 0.078071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000543 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/walk06.png
+  artifactKey: Guid(a4a18e89d5710ca458199cea9b5b8c21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/walk06.png using Guid(a4a18e89d5710ca458199cea9b5b8c21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4030ce3fef2817424531ab878c90113') in 0.042590 seconds
+  Import took 0.049809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000812 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/idle01.png
+  artifactKey: Guid(c8fb36c9573aec04bb0fe4eac28ec680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/idle01.png using Guid(c8fb36c9573aec04bb0fe4eac28ec680) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f837eeeb3c936a3cfcdafa5e50a8cfb') in 0.020768 seconds
+  Import took 0.028138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000596 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/enemy05_sheet.png
+  artifactKey: Guid(2d408343074d5b9459823ccefd04b24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/enemy05_sheet.png using Guid(2d408343074d5b9459823ccefd04b24a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f101c2292bbbc0af303867406aab8de') in 0.048878 seconds
+  Import took 0.056146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000574 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/idle07.png
+  artifactKey: Guid(f1625788926866b4e94756628f08a9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/idle07.png using Guid(f1625788926866b4e94756628f08a9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26beeac7dad7fd7cb54f03e6ec980569') in 0.040915 seconds
+  Import took 0.048197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000717 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/attack04.png
+  artifactKey: Guid(52ead933636e21642b1fad5e671a6f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/attack04.png using Guid(52ead933636e21642b1fad5e671a6f88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '931ff5c21daebf5084dc45067c7272fd') in 0.033665 seconds
+  Import took 0.060331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000748 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/idle04.png
+  artifactKey: Guid(5079ef0ec22f13a4fb431676cd11bcae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/idle04.png using Guid(5079ef0ec22f13a4fb431676cd11bcae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01945256f5e64d2a6ef81d3a545fe102') in 0.090202 seconds
+  Import took 0.100780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000644 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/attack02.png
+  artifactKey: Guid(d33a5d3fbc589084f95eeaf66def4c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/attack02.png using Guid(d33a5d3fbc589084f95eeaf66def4c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9da158fb45fa81373c134e9dad2ede46') in 0.060234 seconds
+  Import took 0.067595 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000624 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/attack03.png
+  artifactKey: Guid(c08ab952ada70a1408ffa749e490aeb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/attack03.png using Guid(c08ab952ada70a1408ffa749e490aeb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '462751dd4c3793e51318717b8b980e29') in 0.062183 seconds
+  Import took 0.069968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000685 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/walk03.png
+  artifactKey: Guid(31558d88a3e3b144e816eb26d5b3f02b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/walk03.png using Guid(31558d88a3e3b144e816eb26d5b3f02b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78554ee924b7bf1eb523e8740bca6fd9') in 0.193183 seconds
+  Import took 0.200716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000553 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/idle09.png
+  artifactKey: Guid(c2818a7eababaf54b814580081711e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/idle09.png using Guid(c2818a7eababaf54b814580081711e3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a881bd355ea848d95fd088afc1327c50') in 0.044848 seconds
+  Import took 0.051744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000537 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/walk02.png
+  artifactKey: Guid(826e8bde324af434bb0acb06eaf0c97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/walk02.png using Guid(826e8bde324af434bb0acb06eaf0c97c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd81d8f03ae99f2bd1e55990b69d684e2') in 0.020435 seconds
+  Import took 0.027852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000692 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/idle08.png
+  artifactKey: Guid(41cc702ba16e9b748baccf3887f025a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/idle08.png using Guid(41cc702ba16e9b748baccf3887f025a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fb6e256482419332a34639870e32128') in 0.050293 seconds
+  Import took 0.057736 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000636 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/idle06.png
+  artifactKey: Guid(b116b26d29612b743af760f0fba376dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/idle06.png using Guid(b116b26d29612b743af760f0fba376dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec86565128dd9415b9f0656a1290e395') in 0.066767 seconds
+  Import took 0.074094 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000664 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/attack06.png
+  artifactKey: Guid(e49976cd29b4f63458b37db0a459dd21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/attack06.png using Guid(e49976cd29b4f63458b37db0a459dd21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d92a9b2ecfb0b002fc73bb7474b4464') in 0.041712 seconds
+  Import took 0.115070 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000666 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/walk01.png
+  artifactKey: Guid(cc87d116742bab942baea68f20023da8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/walk01.png using Guid(cc87d116742bab942baea68f20023da8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bbb2bec77170dfa77426e96ff4cb555') in 0.031232 seconds
+  Import took 0.092189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000694 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/attack05.png
+  artifactKey: Guid(00114a14b12b7b3448d45c5107ee599b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/attack05.png using Guid(00114a14b12b7b3448d45c5107ee599b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '753a3292eb4111e5d91a4937896a142d') in 0.090848 seconds
+  Import took 0.152398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000673 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/walk04.png
+  artifactKey: Guid(6e164b6411cf01f43ad76d4a996bdeec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/walk04.png using Guid(6e164b6411cf01f43ad76d4a996bdeec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26915ea877f75af8bafdc71b3dc3c3b1') in 0.041832 seconds
+  Import took 0.049570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/idle03.png
+  artifactKey: Guid(a3b7a64b021ebba4088b3c20e66fc005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/idle03.png using Guid(a3b7a64b021ebba4088b3c20e66fc005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4792cf75f700d684def7fa578f749a9') in 0.021685 seconds
+  Import took 0.028917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/hit02.png
+  artifactKey: Guid(1464912689f5342488884bc5d211bdb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/hit02.png using Guid(1464912689f5342488884bc5d211bdb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '253d5f8d225187ee3eaa960f1daffa49') in 0.086124 seconds
+  Import took 0.148798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000617 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/hit01.png
+  artifactKey: Guid(64479bcd9b4671b4ea3bc435f68985c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/hit01.png using Guid(64479bcd9b4671b4ea3bc435f68985c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad7a4e9ce97b727fa296f39a92807190') in 0.086250 seconds
+  Import took 0.157856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000637 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/walk05.png
+  artifactKey: Guid(ac395bfb6334394428256fcb1fdc238b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/walk05.png using Guid(ac395bfb6334394428256fcb1fdc238b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93d0d5b084a214eb387e570a0de9b1c7') in 0.036900 seconds
+  Import took 0.045183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000487 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/idle05.png
+  artifactKey: Guid(3b434104535ccbd41971d90564048de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/idle05.png using Guid(3b434104535ccbd41971d90564048de9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66f31c08b7366b1db3e68612c3ad27fe') in 0.031735 seconds
+  Import took 0.039123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000828 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/hit03.png
+  artifactKey: Guid(e6524e7c58715e249b38d1522a9e1df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/hit03.png using Guid(e6524e7c58715e249b38d1522a9e1df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c9952775aa4a9289ec9c143240d7d72') in 0.026011 seconds
+  Import took 0.085488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000757 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/attack03.png
+  artifactKey: Guid(d25b81547c317a446a29dbf0e476ea5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/attack03.png using Guid(d25b81547c317a446a29dbf0e476ea5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32712e417ec84e6b86a06fc26fc5c599') in 0.196191 seconds
+  Import took 0.204013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000683 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/walk05.png
+  artifactKey: Guid(fa4e6ae4b6f7e1f438127d49ab250bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/walk05.png using Guid(fa4e6ae4b6f7e1f438127d49ab250bc5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6623b0b2a4c9d0b039cef02376aa5a7a') in 0.072220 seconds
+  Import took 0.080288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001762 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/jump_mid02.png
+  artifactKey: Guid(5d04e5e46766d6e47b3de242fa0e06d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/jump_mid02.png using Guid(5d04e5e46766d6e47b3de242fa0e06d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc9e96a2ae3da351fe4ee51941e4cdc3') in 0.056491 seconds
+  Import took 0.064870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000662 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/attack06.png
+  artifactKey: Guid(75555b9a78c00cd449ec7087c1be6a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/attack06.png using Guid(75555b9a78c00cd449ec7087c1be6a18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1489d7c920f40c6c1667bc930031a2ba') in 0.043683 seconds
+  Import took 0.107746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000557 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/hit02.png
+  artifactKey: Guid(cc4960bffa6ee194094011a50c63f549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/hit02.png using Guid(cc4960bffa6ee194094011a50c63f549) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '628a2687515530fc55ad69b561e0f942') in 0.055372 seconds
+  Import took 0.164469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000557 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/idle05.png
+  artifactKey: Guid(1e3c5a10c68871744bfa3812a6b3206f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/idle05.png using Guid(1e3c5a10c68871744bfa3812a6b3206f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71cfbd6f8f91b17423c9bb9a1b4b32e8') in 0.061511 seconds
+  Import took 0.069230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/idle01.png
+  artifactKey: Guid(d966f8b1347423f4ab1a9a8f1decca95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/idle01.png using Guid(d966f8b1347423f4ab1a9a8f1decca95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd982ae73ad3d93d2443044fbcc1be217') in 0.038630 seconds
+  Import took 0.046737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000536 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/idle03.png
+  artifactKey: Guid(ab0a9690564931045a9929c4b5ce9bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/idle03.png using Guid(ab0a9690564931045a9929c4b5ce9bc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36e0593648c7499007b3ff8c83cd99b2') in 0.038886 seconds
+  Import took 0.112829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000548 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/jump_mid01.png
+  artifactKey: Guid(4bd226a3a82291547b08aad8e88a8925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/jump_mid01.png using Guid(4bd226a3a82291547b08aad8e88a8925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '049db9f12f34a130f3aef7e487147898') in 0.034581 seconds
+  Import took 0.042515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/attack02.png
+  artifactKey: Guid(0c51a2b4c24cf7f478a12d5795598be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/attack02.png using Guid(0c51a2b4c24cf7f478a12d5795598be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76a7a529582d5ed17e1ee1fc15db597c') in 0.052475 seconds
+  Import took 0.059428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000737 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/idle02.png
+  artifactKey: Guid(157c6eb9aecd3cf44a980403a0a1f18b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/idle02.png using Guid(157c6eb9aecd3cf44a980403a0a1f18b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e3a7fc7dde7e9c0a16b6152f0261092') in 0.054195 seconds
+  Import took 0.132153 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000558 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/idle06.png
+  artifactKey: Guid(3d196f4bd0b425b48bff1c6596ddd99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/idle06.png using Guid(3d196f4bd0b425b48bff1c6596ddd99c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c953715a542a46eb8d8012a2145f663') in 0.059669 seconds
+  Import took 0.067221 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000766 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/idle07.png
+  artifactKey: Guid(966958addb490c24e9af2494e03a4af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/idle07.png using Guid(966958addb490c24e9af2494e03a4af2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0521a1c380b350ad1970244865e96e9') in 0.105122 seconds
+  Import took 0.113173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000655 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/walk03.png
+  artifactKey: Guid(529d567b9fca92d4e87db10373939c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/walk03.png using Guid(529d567b9fca92d4e87db10373939c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6d572ba9c50939a1845b8fdaa49bff0') in 0.040837 seconds
+  Import took 0.061279 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000785 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/walk06.png
+  artifactKey: Guid(061d21cb70545434482762404216bac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/walk06.png using Guid(061d21cb70545434482762404216bac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcde1ce3f08857aa1e3cf1504c71c89a') in 0.255363 seconds
+  Import took 0.262840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000565 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/attack05.png
+  artifactKey: Guid(8c803248f5a3fda4ebc2a3e7051b524d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/attack05.png using Guid(8c803248f5a3fda4ebc2a3e7051b524d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67e6e7577202f6c085001f2247924bb3') in 0.034924 seconds
+  Import took 0.043309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000496 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/attack01.png
+  artifactKey: Guid(47fd8ed8460309040a8de50f73738698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/attack01.png using Guid(47fd8ed8460309040a8de50f73738698) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba1cfc695e36fe01e5d31fadb2a59938') in 0.019307 seconds
+  Import took 0.026576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000755 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/enemy04_sheet.png
+  artifactKey: Guid(62a89e9091091dd4495436f55f26d512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/enemy04_sheet.png using Guid(62a89e9091091dd4495436f55f26d512) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99d84c82cba3ae065452459b0b416c88') in 0.036808 seconds
+  Import took 0.044842 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000805 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/attack07.png
+  artifactKey: Guid(a542b1ae850f4524ebd3565f5800a3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/attack07.png using Guid(a542b1ae850f4524ebd3565f5800a3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b080564bca7b07f49d9becc1fff00ce1') in 0.068785 seconds
+  Import took 0.119347 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000634 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/jump_landing.png
+  artifactKey: Guid(1f89a51e17e660c438c5a755b619a0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/jump_landing.png using Guid(1f89a51e17e660c438c5a755b619a0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be620569039eae8cd173c968fefe727d') in 0.074010 seconds
+  Import took 0.129463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000800 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/hit01.png
+  artifactKey: Guid(eba976b4373e4a44190530377013881c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/hit01.png using Guid(eba976b4373e4a44190530377013881c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ecaf63ec7c87c927b44704601fbf035') in 0.068971 seconds
+  Import took 0.076211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/walk01.png
+  artifactKey: Guid(a44611a292335b445870f6b121109e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/walk01.png using Guid(a44611a292335b445870f6b121109e4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e598bab5f1a6845d4c371a3cba9064fd') in 0.037183 seconds
+  Import took 0.044712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000544 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/walk04.png
+  artifactKey: Guid(1c94025ad952e7c4d8f539f6db48f4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/walk04.png using Guid(1c94025ad952e7c4d8f539f6db48f4b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec52ac6db7acfdd16043d8b8a0666f12') in 0.046216 seconds
+  Import took 0.052993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000578 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/jump_mid04.png
+  artifactKey: Guid(bb548d70464baff43b8bad1b46c3af8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/jump_mid04.png using Guid(bb548d70464baff43b8bad1b46c3af8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c51f871fa454c2d68b9556a29d0ebf9f') in 0.029650 seconds
+  Import took 0.074355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000556 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/jump_mid03.png
+  artifactKey: Guid(6f392c618e5818749981a2fd87271820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/jump_mid03.png using Guid(6f392c618e5818749981a2fd87271820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5e06569283997d1f28925f493b97a74') in 0.210074 seconds
+  Import took 0.216942 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000560 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/idle04.png
+  artifactKey: Guid(d90a17239e13a9f47b638b6fcee274c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/idle04.png using Guid(d90a17239e13a9f47b638b6fcee274c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0794bdcb059ed963a45b5d48c868962f') in 0.026568 seconds
+  Import took 0.033779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000654 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/attack04.png
+  artifactKey: Guid(e5e9929e95ca2804c9b3653b8be3ce4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/attack04.png using Guid(e5e9929e95ca2804c9b3653b8be3ce4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebbd9d2c226c7da0a07ab58fa17bd6b7') in 0.031975 seconds
+  Import took 0.039354 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000731 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/hit03.png
+  artifactKey: Guid(6eb7e1aa4fa4423408a18b92a986e9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/hit03.png using Guid(6eb7e1aa4fa4423408a18b92a986e9fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '252321568aff3b266375fd2ad1a3cbaf') in 0.035995 seconds
+  Import took 0.043457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000649 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy4/walk02.png
+  artifactKey: Guid(ed8258e4f11eaed4797531d6f57f7892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy4/walk02.png using Guid(ed8258e4f11eaed4797531d6f57f7892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e3db4a22fef567e3a440f23e09a572b') in 0.041918 seconds
+  Import took 0.048708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000535 seconds.
+  path: Assets/CrystalWorld/Sprites/Enemy5/idle02.png
+  artifactKey: Guid(d0fd3c5d9f629364d9dccab8ecf66960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CrystalWorld/Sprites/Enemy5/idle02.png using Guid(d0fd3c5d9f629364d9dccab8ecf66960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f0cce391996e77cd0707f3403a50d70') in 0.036130 seconds
+  Import took 0.043466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 541.874983 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Prota/HeroKnight.prefab
+  artifactKey: Guid(0d0969332a5f12a488a7ce0be91a4c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Prota/HeroKnight.prefab using Guid(0d0969332a5f12a488a7ce0be91a4c90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4231f4d1b29161057a7de80782dada0') in 0.311346 seconds
+  Import took 0.320588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.188911 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/TILEMAP Cuevas.prefab
+  artifactKey: Guid(99ad9c6b14433cf4d8c84fe9424ce32d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/TILEMAP Cuevas.prefab using Guid(99ad9c6b14433cf4d8c84fe9424ce32d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d30dc2c55651d81a2a4a09e303adc0a') in 0.007071 seconds
+  Import took 0.014598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000504 seconds.
+  path: Assets/2DGamekit/Art/TileMapPalettes/Tileset/TilesetGamekit.prefab
+  artifactKey: Guid(828ab588c2d0159468fbefcc1189616f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/TileMapPalettes/Tileset/TilesetGamekit.prefab using Guid(828ab588c2d0159468fbefcc1189616f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0795f8298c5b60a5936700aa8508ef3') in 0.040320 seconds
+  Import took 0.047845 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003613 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.575 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2232 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.0 MB.
+System memory in use after: 128.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2797.
+Total: 3.764200 ms (FindLiveObjects: 0.508800 ms CreateObjectMapping: 0.220800 ms MarkObjects: 2.859200 ms  DeleteObjects: 0.171800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002000 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.208 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2232 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 128.0 MB.
+System memory in use after: 128.1 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2801.
+Total: 3.310400 ms (FindLiveObjects: 0.312200 ms CreateObjectMapping: 0.074200 ms MarkObjects: 2.741100 ms  DeleteObjects: 0.180200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
