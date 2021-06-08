@@ -1,117 +1,348 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.4f1 (0abb6314276a) revision 703331'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 19042.985; Version 2009; 64bit' Language: 'es' Physical Memory: 8140 MB
+OS: 'Windows 10 Pro; OS build 19041.985; Version 2004; 64bit' Language: 'es' Physical Memory: 16334 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
-C:\Users\User\Desktop\FACULTAD\unity\2020.3.4f1\Editor\Unity.exe
+C:\Program Files\Unity\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/User/Documents/GitHub/Juego-sci-medieval/Juego sci-medieval
+C:/Users/Cliente/Documents/GitHub/Juego-sci-medieval/Juego sci-medieval
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49851
-Successfully changed project path to: C:/Users/User/Documents/GitHub/Juego-sci-medieval/Juego sci-medieval
-C:/Users/User/Documents/GitHub/Juego-sci-medieval/Juego sci-medieval
+57262
+Successfully changed project path to: C:/Users/Cliente/Documents/GitHub/Juego-sci-medieval/Juego sci-medieval
+C:/Users/Cliente/Documents/GitHub/Juego-sci-medieval/Juego sci-medieval
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 132.03 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 105.95 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.4f1 (0abb6314276a)
-[Subsystems] Discovering subsystems at path C:/Users/User/Desktop/FACULTAD/unity/2020.3.4f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/User/Documents/GitHub/Juego-sci-medieval/Juego sci-medieval/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Cliente/Documents/GitHub/Juego-sci-medieval/Juego sci-medieval/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: Radeon RX 580 Series (ID=0x67df)
+    Renderer: AMD Radeon RX 5600 XT (ID=0x731f)
     Vendor:   
-    VRAM:     8171 MB
+    VRAM:     6104 MB
     Driver:   27.20.14501.28009
 Initialize mono
-Mono path[0] = 'C:/Users/User/Desktop/FACULTAD/unity/2020.3.4f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Users/User/Desktop/FACULTAD/unity/2020.3.4f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'C:/Users/User/Desktop/FACULTAD/unity/2020.3.4f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56380
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56256
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Users/User/Desktop/FACULTAD/unity/2020.3.4f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003426 seconds.
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002722 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 101.73 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 105.47 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.592 seconds
+- Completed reload, in  1.337 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001962 seconds.
+Registered in 0.001923 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 103.40 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 104.17 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.329 seconds
+- Completed reload, in  1.209 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
-Refreshing native plugins compatible for Editor in 1.00 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.99 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 2286 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 129.5 MB.
+System memory in use before: 129.6 MB.
 System memory in use after: 129.6 MB.
 
 Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2756.
-Total: 2.852800 ms (FindLiveObjects: 0.291800 ms CreateObjectMapping: 0.099500 ms MarkObjects: 2.281500 ms  DeleteObjects: 0.177900 ms)
+Total: 2.583800 ms (FindLiveObjects: 0.311600 ms CreateObjectMapping: 0.078500 ms MarkObjects: 2.023500 ms  DeleteObjects: 0.168800 ms)
 
 ========================================================================
 Received Import Request.
-  path: Assets/CrystalWorld/rocks.png
-  artifactKey: Guid(9422cf146bf65ee4ab42df4232b29c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CrystalWorld/rocks.png using Guid(9422cf146bf65ee4ab42df4232b29c0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb67a0772f7bafe0a2bab5428f8a7798') in 0.470898 seconds
-  Import took 0.513941 seconds .
+  path: Assets/Juego sci-medieval/SPRITES/Arbol chiquito 3.png
+  artifactKey: Guid(c320906d0b8ae0d4c83df36b60e66681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Arbol chiquito 3.png using Guid(c320906d0b8ae0d4c83df36b60e66681) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '553aeec4d60c3bf32fc71c05586731cf') in 0.151005 seconds
+  Import took 0.155305 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002999 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.13 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.328 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.06 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2232 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.8 MB.
-System memory in use after: 127.8 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2766.
-Total: 3.146300 ms (FindLiveObjects: 0.283500 ms CreateObjectMapping: 0.083800 ms MarkObjects: 2.620000 ms  DeleteObjects: 0.155800 ms)
+Received Import Request.
+  Time since last request: 0.000635 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Arbol chiquito 1.png
+  artifactKey: Guid(040ec80693649644298b5ab8d834cd62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Arbol chiquito 1.png using Guid(040ec80693649644298b5ab8d834cd62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc7f81faab3bacd87d26009939407261') in 0.015441 seconds
+  Import took 0.019450 seconds .
 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002200 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.57 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.330 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.03 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 2232 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 127.8 MB.
-System memory in use after: 127.9 MB.
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Arbol chiquito 2.png
+  artifactKey: Guid(ba6ac859d7bc95a4296e37f192a5d1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Arbol chiquito 2.png using Guid(ba6ac859d7bc95a4296e37f192a5d1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eafafc9222762c0158ad183332dd0a85') in 0.014235 seconds
+  Import took 0.018415 seconds .
 
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2770.
-Total: 3.342200 ms (FindLiveObjects: 0.318000 ms CreateObjectMapping: 0.081800 ms MarkObjects: 2.750200 ms  DeleteObjects: 0.190300 ms)
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Malesa 1.png
+  artifactKey: Guid(a1294796bd2c2e2428dcf3cc2ddda4e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Malesa 1.png using Guid(a1294796bd2c2e2428dcf3cc2ddda4e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68649d0dca7c93dcc983ceb02b03ad59') in 0.014119 seconds
+  Import took 0.017841 seconds .
 
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Layer_0000_9 (1).prefab
+  artifactKey: Guid(ac896510ecb313b4186635d6c7e3923d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Layer_0000_9 (1).prefab using Guid(ac896510ecb313b4186635d6c7e3923d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53d0310f4e3db56547131906846c0da4') in 0.054105 seconds
+  Import took 0.057997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Layer_0004_Lights.prefab
+  artifactKey: Guid(38ab101523859ca40b4af21a0582d002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Layer_0004_Lights.prefab using Guid(38ab101523859ca40b4af21a0582d002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f30a9478b01be62dca7c9ac35514b313') in 0.017102 seconds
+  Import took 0.021422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Malessa 5.png
+  artifactKey: Guid(5cfa33f84e811b849af4e4a4b2149332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Malessa 5.png using Guid(5cfa33f84e811b849af4e4a4b2149332) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '283810e3d06af26046b832abb67f716a') in 0.015821 seconds
+  Import took 0.020123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Layer_0010_1.prefab
+  artifactKey: Guid(47a37ffdf5661b140b2607388aa4f33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Layer_0010_1.prefab using Guid(47a37ffdf5661b140b2607388aa4f33a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee44ea413a04a4287a649a897e07c036') in 0.023373 seconds
+  Import took 0.027961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Arbusto 5.png
+  artifactKey: Guid(34606aa4a67db984eaef62a190ebe7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Arbusto 5.png using Guid(34606aa4a67db984eaef62a190ebe7d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7219979aa0ac6f1b18030281906c6ba5') in 0.014506 seconds
+  Import took 0.018411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Layer_0001_8.prefab
+  artifactKey: Guid(b647c2450134e5043847be9ea6a64041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Layer_0001_8.prefab using Guid(b647c2450134e5043847be9ea6a64041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '444fe8772f819e347821705225ad3d8e') in 0.015772 seconds
+  Import took 0.020343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/mainlevbuild.prefab
+  artifactKey: Guid(15a0f10f830c3d84f81e7908e4eafa3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/mainlevbuild.prefab using Guid(15a0f10f830c3d84f81e7908e4eafa3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1e1d8388683a23729f282ecd93b3f9e') in 0.016614 seconds
+  Import took 0.020878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Malesa 4.png
+  artifactKey: Guid(1878efa4a0749b74594c29f2a702424c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Malesa 4.png using Guid(1878efa4a0749b74594c29f2a702424c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80155b7ff7c6e4cfb70891fee0a84430') in 0.013060 seconds
+  Import took 0.017200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/TILEMAP Cuevas.prefab
+  artifactKey: Guid(99ad9c6b14433cf4d8c84fe9424ce32d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/TILEMAP Cuevas.prefab using Guid(99ad9c6b14433cf4d8c84fe9424ce32d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bda337237ace2e9f7aa33749ae13b35') in 0.010036 seconds
+  Import took 0.014163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/clouds (1).prefab
+  artifactKey: Guid(9210d183a2a6ff04697c0e2213ce663e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/clouds (1).prefab using Guid(9210d183a2a6ff04697c0e2213ce663e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '649b12c606d1f380b508578391d930d0') in 0.014791 seconds
+  Import took 0.018756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Malesa 2.png
+  artifactKey: Guid(8c6619e91b38a1148b893302e4822b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Malesa 2.png using Guid(8c6619e91b38a1148b893302e4822b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '485f646ca878e2b9742cb4f32bd31f88') in 0.012728 seconds
+  Import took 0.016987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Malesa 3.png
+  artifactKey: Guid(44169b79823789a4996c0eec63b1b37d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Malesa 3.png using Guid(44169b79823789a4996c0eec63b1b37d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76a497325d971927d96ad9fe120a55b6') in 0.012193 seconds
+  Import took 0.016459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Arbusto 2.png
+  artifactKey: Guid(578ffa3ccfdb5a346aaadf51601f950f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Arbusto 2.png using Guid(578ffa3ccfdb5a346aaadf51601f950f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ed846e2f68ef02212c69b0ebb478e7e') in 0.013515 seconds
+  Import took 0.017497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Arbusto 6.png
+  artifactKey: Guid(9db5458a33daa874ebd1cc553292e2cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Arbusto 6.png using Guid(9db5458a33daa874ebd1cc553292e2cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '323a9771651e943b2134ec0d28f647f5') in 0.012954 seconds
+  Import took 0.017018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Arbol 1.png
+  artifactKey: Guid(0a832f9e3c7093a4db81b7e96d5c8587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Arbol 1.png using Guid(0a832f9e3c7093a4db81b7e96d5c8587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117c5ea97b96debb944ced6ddfcc8f8d') in 0.016649 seconds
+  Import took 0.020767 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/bakcground_day3.prefab
+  artifactKey: Guid(00d156f4942e0664f80daf03f2752cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/bakcground_day3.prefab using Guid(00d156f4942e0664f80daf03f2752cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3999c3eb39ab9e0c6f4ee6a4cc1baaf') in 0.014279 seconds
+  Import took 0.018156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Arbusto 3.png
+  artifactKey: Guid(b25d0085df683c7468edfa1362b0d581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Arbusto 3.png using Guid(b25d0085df683c7468edfa1362b0d581) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c64dab9acedd6498433bb1db8945e718') in 0.012894 seconds
+  Import took 0.016789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/far-grounds.prefab
+  artifactKey: Guid(71cdff973e79e4d498daa964f70d1986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/far-grounds.prefab using Guid(71cdff973e79e4d498daa964f70d1986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75b2d707946e04d10ffa05324f2897c3') in 0.015208 seconds
+  Import took 0.018877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/clouds (2).prefab
+  artifactKey: Guid(876fd78e15e2dfb45b4017e003d7213c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/clouds (2).prefab using Guid(876fd78e15e2dfb45b4017e003d7213c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd232b5413b2aa54691512fdee7f3b621') in 0.015117 seconds
+  Import took 0.018902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Arbol 2.png
+  artifactKey: Guid(f13fa79cfe756c84aad6c56b5ef9aa7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Arbol 2.png using Guid(f13fa79cfe756c84aad6c56b5ef9aa7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d4fb327b24683a7aea8f78551907426') in 0.043082 seconds
+  Import took 0.047208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Rama 1.png
+  artifactKey: Guid(077a2dfce22aeae458e98a0985f126b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Rama 1.png using Guid(077a2dfce22aeae458e98a0985f126b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b566a7497ce82998325a22acb7390c0') in 0.013454 seconds
+  Import took 0.017197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Arbusto 4.png
+  artifactKey: Guid(e5bbd462faa7b0440b82aee453064572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Arbusto 4.png using Guid(e5bbd462faa7b0440b82aee453064572) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb092ed46cf0ada1305d98b1628b19fd') in 0.013743 seconds
+  Import took 0.018230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Layer_0000_9.prefab
+  artifactKey: Guid(83b055f300c84a145a04f0f4e8c442b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Layer_0000_9.prefab using Guid(83b055f300c84a145a04f0f4e8c442b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '678e4bca9697cf336900231c116224f0') in 0.015377 seconds
+  Import took 0.019410 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Rama 3.png
+  artifactKey: Guid(d822be21da8b96a47bd0b10bb1d428b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Rama 3.png using Guid(d822be21da8b96a47bd0b10bb1d428b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d7c996d54a79626afc70aeabd83d8b1') in 0.013020 seconds
+  Import took 0.016675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Arbol 3.png
+  artifactKey: Guid(a83f32be8d15e164fb7378f4c30da62f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Arbol 3.png using Guid(a83f32be8d15e164fb7378f4c30da62f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5b7d8212d877b09ea26355407948731') in 0.015584 seconds
+  Import took 0.019243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/TILEMAP piso bosque.prefab
+  artifactKey: Guid(7efd1a61866d8ee4bae48f54d1757a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/TILEMAP piso bosque.prefab using Guid(7efd1a61866d8ee4bae48f54d1757a13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b8bb9675c8cd3e3fc1393dc7d6d21eb') in 0.014038 seconds
+  Import took 0.017990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/clouds.prefab
+  artifactKey: Guid(802afa80fe8d9a742acf9c7c63434cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/clouds.prefab using Guid(802afa80fe8d9a742acf9c7c63434cb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de22261241ec963e090ef4435747e94') in 0.013472 seconds
+  Import took 0.017685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Rama 2.png
+  artifactKey: Guid(03288baafaa87a34d89cd06f7ac3e81b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Rama 2.png using Guid(03288baafaa87a34d89cd06f7ac3e81b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fc89f14cc1b69ebc603884662a8e377') in 0.012315 seconds
+  Import took 0.016471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Arbusto 1.png
+  artifactKey: Guid(0c8788db611030c48b408cd3ad19cc4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Arbusto 1.png using Guid(0c8788db611030c48b408cd3ad19cc4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20abe6969881a5fc742ef555595cac30') in 0.013014 seconds
+  Import took 0.017287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Layer_0000_9 (2).prefab
+  artifactKey: Guid(47c13c6a6fe452a46ab699b0c57117c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Layer_0000_9 (2).prefab using Guid(47c13c6a6fe452a46ab699b0c57117c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc7035e658e894ab45a8f829ffa986a9') in 0.014258 seconds
+  Import took 0.018127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Juego sci-medieval/SPRITES/Espinas.png
+  artifactKey: Guid(540bbfd91d64e9348a7daae7fddb9722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Juego sci-medieval/SPRITES/Espinas.png using Guid(540bbfd91d64e9348a7daae7fddb9722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c689158e1753b64c9cd513826cf7787') in 0.013837 seconds
+  Import took 0.017946 seconds .
+
